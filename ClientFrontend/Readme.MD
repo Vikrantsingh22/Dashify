@@ -1,20 +1,18 @@
 # Client Frontend
 
-This project contains the frontend client component of the Blackcoffer Assignment.
+This project contains the frontend client component of the Dashify.
 
 ## Setup Instructions:
 
-1. Extract the given Zip File.
-2. Open the folder `BlackcofferAssignment`.
-3. Navigate to the `ClientFrontend` directory:
+1. Navigate to the `ClientFrontend` directory:
    ```
    cd ClientFrontend
    ```
-4. Install dependencies:
+2. Install dependencies:
    ```
    npm install
    ```
-5. Start the frontend React server:
+3. Start the frontend React server:
    ```
    npm run dev
    ```

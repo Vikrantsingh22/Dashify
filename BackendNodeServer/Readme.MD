@@ -1,22 +1,20 @@
 # Backend Node Server
 
-This project contains the backend server component of the Blackcoffer Assignment.
+This project contains the backend server component of the Dashify.
 
 ## Setup Instructions:
 
-1. Extract the given Zip File.
-2. Open the folder `BlackcofferAssignment`.
-3. Navigate to the `BackendNodeServer` directory:
+1. Navigate to the `BackendNodeServer` directory:
 
    ```
    cd BackendNodeServer
    ```
 
-4. Install dependencies:
+2. Install dependencies:
    ```
    npm install
    ```
-5. Create a `.env` file in the root directory and enter your MongoDB connection string:
+3. Create a `.env` file in the root directory and enter your MongoDB connection string:
 
    ```
    MONGO_URI=mongodb://localhost:27017
@@ -28,7 +26,7 @@ This project contains the backend server component of the Blackcoffer Assignment
    MONGO_URI=mongodb://localhost:27017
    ```
 
-6. Start the server:
+4. Start the server:
    ```
    npm start
    ```

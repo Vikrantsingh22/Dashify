@@ -1,4 +1,4 @@
-# Blackcoffer Assignment
+# Dashify
 
 This project consists of both backend and frontend components.
 
@@ -7,16 +7,15 @@ This project consists of both backend and frontend components.
 ### Steps to Setup:
 
 1. Extract the given Zip File.
-2. Open the folder `BlackcofferAssignment`.
-3. Navigate to the `BackendNodeServer` directory:
+2. Navigate to the `BackendNodeServer` directory:
    ```
    cd BackendNodeServer
    ```
-4. Install dependencies:
+3. Install dependencies:
    ```
    npm install
    ```
-5. Create a `.env` file in the root directory and enter your MongoDB connection string:
+4. Create a `.env` file in the root directory and enter your MongoDB connection string:
    ```
    MONGO_URI=mongodb://localhost:27017
    ```
@@ -24,7 +23,7 @@ This project consists of both backend and frontend components.
    ```
    MONGO_URI=mongodb://localhost:27017
    ```
-6. Start the server:
+5. Start the server:
    ```
    npm start
    ```
@@ -35,16 +34,15 @@ This project consists of both backend and frontend components.
 
 ### Steps to Setup:
 
-1. Open the folder `BlackcofferAssignment`.
-2. Navigate to the `ClientFrontend` directory:
+1. Navigate to the `ClientFrontend` directory:
    ```
    cd ClientFrontend
    ```
-3. Install dependencies:
+2. Install dependencies:
    ```
    npm install
    ```
-4. Start the frontend React server:
+3. Start the frontend React server:
    ```
    npm run dev
    ```
